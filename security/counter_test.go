@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/nas/security"
+	"github.com/enable-intelligent-containerized-5g/nas/security"
 )
 
 func TestSetterGetter(t *testing.T) {

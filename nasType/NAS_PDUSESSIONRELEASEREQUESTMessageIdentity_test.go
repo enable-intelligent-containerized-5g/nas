@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/nas/nasType"
+	"github.com/enable-intelligent-containerized-5g/nas/nasType"
 )
 
 func TestNasTypeNewPDUSESSIONRELEASEREQUESTMessageIdentity(t *testing.T) {

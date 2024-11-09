@@ -4,9 +4,9 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/free5gc/nas/nasMessage"
-	"github.com/free5gc/nas/nasType"
-	"github.com/free5gc/openapi/models"
+	"github.com/enable-intelligent-containerized-5g/nas/nasMessage"
+	"github.com/enable-intelligent-containerized-5g/nas/nasType"
+	"github.com/enable-intelligent-containerized-5g/openapi/models"
 )
 
 // TS 24.501 9.11.3.37

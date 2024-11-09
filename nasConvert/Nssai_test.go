@@ -5,10 +5,10 @@ import (
 
 	"github.com/smartystreets/goconvey/convey"
 
-	"github.com/free5gc/nas/nasConvert"
-	"github.com/free5gc/nas/nasMessage"
-	"github.com/free5gc/nas/nasType"
-	"github.com/free5gc/openapi/models"
+	"github.com/enable-intelligent-containerized-5g/nas/nasConvert"
+	"github.com/enable-intelligent-containerized-5g/nas/nasMessage"
+	"github.com/enable-intelligent-containerized-5g/nas/nasType"
+	"github.com/enable-intelligent-containerized-5g/openapi/models"
 )
 
 func TestRequestedNssaiToModels(t *testing.T) {

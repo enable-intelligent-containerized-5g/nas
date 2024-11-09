@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/nas"
-	"github.com/free5gc/nas/nasType"
+	"github.com/enable-intelligent-containerized-5g/nas"
+	"github.com/enable-intelligent-containerized-5g/nas/nasType"
 )
 
 type nasTypeConfigurationUpdateCommandMessageIdentityData struct {
