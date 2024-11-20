@@ -1,10 +1,10 @@
 module github.com/enable-intelligent-containerized-5g/nas
 
-go 1.21
+go 1.19
 
 require (
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1
-	github.com/enable-intelligent-containerized-5g/openapi v1.0.8
+	github.com/enable-intelligent-containerized-5g/openapi v1.0.41
 	github.com/sirupsen/logrus v1.8.1
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.8.3
@@ -22,4 +22,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/enable-intelligent-containerized-5g/openapi => ../openapi
+// replace github.com/enable-intelligent-containerized-5g/openapi => ../openapi
